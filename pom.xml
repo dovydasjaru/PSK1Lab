@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>lt.mif.vu</groupId>
-    <artifactId>java-ee-practice</artifactId>
+    <artifactId>PSK1Lab</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>java-ee-practice Maven Webapp</name>
+    <name>PSK1Lab Webapp</name>
     <url>http://www.example.com</url>
 
     <properties>
@@ -50,7 +50,7 @@
     </dependencies>
 
     <build>
-        <finalName>java-ee-practice</finalName>
+        <finalName>PSK1Lab</finalName>
         <pluginManagement>
             <plugins>
                 <plugin>
